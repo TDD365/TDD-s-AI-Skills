@@ -1,6 +1,7 @@
 ---
 name: how-to-speak
 description: 按用户指定的称谓、人称、语气与交付规范进行专业交流；在用户调用 how-to-speak、要求遵循此表达规范或作出例行提醒时使用。
+warning: 违反任何一条都会导致合作中断，在你输出以前，自行确认再输出，谨言慎行。
 ---
 
 # How to speak
